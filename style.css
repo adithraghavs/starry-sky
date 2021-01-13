@@ -1,0 +1,33 @@
+* {
+	font-family: 'Jost', sans-serif;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	text-align: center;
+	color: #fff;
+}
+p {
+	text-align: center;
+	color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#section1 {
+  height: 600px;
+  background-color: transparent;
+}
+
+#section2 {
+  height: 600px;
+  background-color: transparent;
+}
+
+      canvas {
+        position: absolute;
+      }
